@@ -10,7 +10,7 @@ java,spring
 - spring,java,docker
 - websocket,webrtc,sse
 - Gson,AWS S3
-![image.png](attachment:86cc2f80-bfd3-478e-8f3a-e51bcff7260a:image.png)
+
 
 # 💡 깨달은 점
 
